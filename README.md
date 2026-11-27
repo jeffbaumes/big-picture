@@ -101,3 +101,7 @@ npm run deploy
 
 Config is in `cloudflare.config.ts` (Worker, D1 binding, `bigpicture.io27.com`). Everything runs on the free tier:
 one Worker, one D1 database, static assets. Signup is open and data is per account.
+
+## License
+
+[MIT](LICENSE)
