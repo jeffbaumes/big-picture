@@ -1,0 +1,14 @@
+{
+  "name": "big-picture",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "cf dev",
+    "deploy": "cf deploy",
+    "demo": "node scripts/demo.mjs"
+  },
+  "devDependencies": {
+    "cf": "^1.0.0-rc.2",
+    "wrangler": "4.166.0"
+  }
+}
